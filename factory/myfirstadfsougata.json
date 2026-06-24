@@ -1,0 +1,15 @@
+{
+	"name": "myfirstadfsougata",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9b3d0f3-b17a-48d2-9de1-e913e7b6f493",
+		"tenantId": "45782e5a-e5a9-415c-b691-941e2dc35ec9"
+	}
+}
